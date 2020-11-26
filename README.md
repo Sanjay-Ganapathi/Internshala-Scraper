@@ -1,5 +1,5 @@
 # Internshala-Scraper
-Jupyter notebook that scrapes internshala for internships and does some analysis on them.<br/>
+Jupyter notebook that scrapes internshala for internships and performing EDA.<br/>
 Notebook is self explanatory<br/>
 Used Selenium and BeautifulSoup
 
